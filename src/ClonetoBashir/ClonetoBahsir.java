@@ -1,8 +1,11 @@
 package ClonetoBashir;
 
 public class ClonetoBahsir {
-	public ClonetoBahsir() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[] args) {
+		
+		System.out.println("clone test to bashir");
+		
+	
 	}
 	
 
